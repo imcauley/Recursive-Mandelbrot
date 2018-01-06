@@ -1,6 +1,8 @@
 # Recursive Mandelbrot Generator
 Command line tool for creating Mandelbrot Set images. All parts of the program is recursive, no for or while loops were used.
 
+[image]: https://raw.githubusercontent.com/imcauley/Recursive-Mandelbrot/master/mandel.jpeg
+
 ## Requirements:
 + Magick++
 
